@@ -5,6 +5,13 @@ website:
 main: WhythehellPlugin
 
 commands:
+    whythehell:
+      description: Why the hell everyone!
+      usage: /why
+
+    killplayer:
+      description: Kills thy Player!
+      usage: /killplayer <playername>
 
 
 version: 0.1
